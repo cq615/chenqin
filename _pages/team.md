@@ -11,8 +11,7 @@ Members
 ======
 <img align="left" width="150" src="/images/chen.png" /> 
 
-Chen Qin, Faculty
-------
+**Chen Qin, Faculty**
 
 Some text
 
