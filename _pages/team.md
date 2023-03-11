@@ -9,9 +9,8 @@ author_profile: true
 
 Members
 ======
+<img src="/images/chen.png" width="150"> 
 
-<!--   <img src="/images/chen.png" width="150">  -->
-{: .cssclass1 .cssclass2 }
-![Chen Qin](/images/chen.png "Chen Qin")
-*logo_caption*
+Chen Qin, Faculty
 
+I am leading the group's research.
