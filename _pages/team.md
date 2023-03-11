@@ -15,6 +15,8 @@ Members
 
 Some text
 
+</br>
+
 <img align="left" width="150" src="/images/chen.png" style="margin-right: 15px" /> &nbsp;&nbsp;&nbsp;&nbsp;
 
 **Chen Qin, Faculty**
