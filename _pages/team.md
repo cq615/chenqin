@@ -15,7 +15,10 @@ Members
 
 Some text
 
-</br></br></br></br>
+</br>
+</br>
+</br>
+</br>
 
 <img align="left" width="150" src="/images/chen.png" style="margin-right: 15px" /> &nbsp;&nbsp;&nbsp;&nbsp;
 
