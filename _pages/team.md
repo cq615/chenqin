@@ -10,4 +10,6 @@ author_profile: true
 Members
 ======
 
-<br/><img src='/images/chen.png'>
+<br/><img src='/images/chen.png'> Chen Qin, PhD
+
+I lead my group's research.
