@@ -10,6 +10,6 @@ author_profile: true
 Members
 ======
 
-<img src="https://github.com/cq615/chenqin/blob/source/images/chen.png" width="200" />
+<img src="/images/chen.png" width="200" />
 
-![Chen Qin](https://github.com/cq615/chenqin/blob/source/images/chen.png)
+![Chen Qin](/images/chen.png)
