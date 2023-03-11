@@ -10,4 +10,4 @@ author_profile: true
 Members
 ======
 
-
+<br/><img src='/images/chenqin.png'>
