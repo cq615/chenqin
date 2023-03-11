@@ -10,6 +10,6 @@ author_profile: true
 Members
 ======
 
-<br/><img src='/images/chen.png'> Chen Qin, PhD
+![Chen Qin, PhD](/images/chen.png')
 
 I lead my group's research.
