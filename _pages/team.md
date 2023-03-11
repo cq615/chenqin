@@ -9,7 +9,8 @@ author_profile: true
 
 Members
 ======
-
-<img src="/images/chen.png" width="200" style="border-radius:50%/>
-
+<kbd>
+  <img src="/images/chen.png" width="200"> 
+<kbd>
+Chen Qin, Faculty
 
