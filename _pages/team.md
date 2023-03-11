@@ -10,6 +10,7 @@ author_profile: true
 Members
 ======
 <img src="/images/chen.png" width="150"> 
+
 Chen Qin
 Faculty
 
