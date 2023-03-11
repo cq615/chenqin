@@ -10,5 +10,5 @@ author_profile: true
 Members
 ======
 
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/chen.png'>
 
