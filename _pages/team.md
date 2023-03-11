@@ -12,5 +12,5 @@ Members
 <kbd>
   <img src="/images/chen.png" width="200"> 
 <kbd>
-Chen Qin, Faculty
+*Chen Qin, Faculty*
 
