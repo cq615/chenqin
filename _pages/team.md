@@ -9,7 +9,7 @@ author_profile: true
 
 Members
 ======
-<img align="left" width="150" src="/images/chen.png" /> 
+<img align="left" width="150" src="/images/chen.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
 
 **Chen Qin, Faculty**
 
