@@ -10,6 +10,6 @@ author_profile: true
 Members
 ======
 
-<img src="/images/chen.png" width="200" />
+<img src="/images/chen.png" width="200" style="border-radius:50%/>
 
-![Chen Qin](/images/chen.png)
+
