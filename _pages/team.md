@@ -9,14 +9,14 @@ author_profile: true
 
 Members
 ======
-<img align="left" width="150" src="/images/chen.png" style="margin-right: 15px" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="left" width="150" src="/images/chen.png" style="margin-right: 15px" /> 
 
 **Chen Qin, Faculty**
 
 Some text <br />
 <br />
 
-<img align="left" width="150" src="/images/chen.png" style="margin-right: 15px" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="left" width="150" src="/images/chen.png" style="margin-right: 15px" /> 
 
 **Chen Qin, Faculty**
 
