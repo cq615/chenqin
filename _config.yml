@@ -244,16 +244,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      
-   - scope:
+  # _research
+  - scope:
       path: ""
       type: research
     values:
       layout: research
       author_profile: true
       share: true
-      
-   - scope:
+  # _services
+  - scope:
       path: ""
       type: services
     values:
