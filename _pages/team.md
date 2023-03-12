@@ -9,7 +9,7 @@ author_profile: true
 
 Members
 ======
-<img align="left" width="150" src="/images/shaoming.jpg" style="margin-right: 15px" /> 
+<img align="left" width="150" src="/images/Shaoming.jpg" style="margin-right: 15px" /> 
 
 **[Shaoming Zheng](https://eurekazheng.github.io/), PhD Student. (2023 - )**
 
