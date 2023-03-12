@@ -11,5 +11,5 @@ author_profile: true
 
 - **Deep Learning for Dynamic MRI Reconstruction**. 
 
-   at Artificial Intelligence in NMR, MRI and Neuroscience, Feb, 2021
+   at Artificial Intelligence in NMR, MRI and Neuroscience, Feb, 2021 
    at Artificial Intelligence in NMR, MRI and Neuroscience, Feb, 2021
