@@ -34,6 +34,13 @@ Chen Chen, **Chen Qin**, Cheng Ouyang, Zeju Li, Shuo Wang, Huaqi Qiu, Liang Chen
 Medical Image Analysis, 2022. <br />
 <br />
  -->
+<img align="left" width="300" src="/images/Tian.jpeg" style="margin-right: 15px" /> 
+
+**Adversarial counterfactual augmentation: application in Alzheimer’s disease classification**\
+Tian Xia, Pedro Sanchez, **Chen Qin**, Sotirios A Tsaftaris\
+Frontiers in Radiology, 2022. <br />
+<br /><br /> 
+ 
 <img align="left" width="300" src="/images/Mulvimotion.png" style="margin-right: 15px" /> 
 
 **MulViMotion: Shape-aware 3D Myocardial Motion Tracking from Multi-View Cardiac MRI**\
