@@ -25,7 +25,7 @@ Medical Image Analysis, 2023. \[[code](https://github.com/cq615/BIGM-motion-trac
 **Conditional Deformable Image Registration with Spatially-Variant and Adaptive Regularization**\
 Yinsong Wang, Huaqi Qiu, **Chen Qin**\
 IEEE International Symposium on Biomedical Imaging (ISBI), 2023. <br />
-<br /><br />
+<br />
 
 <!-- <img align="left" width="300" src="/images/adversarialDA.jpg" style="margin-right: 15px" /> 
 
@@ -39,7 +39,7 @@ Medical Image Analysis, 2022. <br />
 **MulViMotion: Shape-aware 3D Myocardial Motion Tracking from Multi-View Cardiac MRI**\
 Qingjie Meng, **Chen Qin**, Wenjia Bai, Tianrui Liu, Antonio De Marvao, Declan P O’Regan, Daniel Rueckert\
 IEEE Transactions on Medical Imaging, 2022. <br />
-<br /><br />
+<br />
 
 <img align="left" width="300" src="/images/CTFNet.jpeg" style="margin-right: 15px" /> 
 
@@ -60,34 +60,34 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 **Biomechanics-Informed Neural Networks for Myocardial Motion Tracking in MRI**\
 **Chen Qin**, Shuo Wang, Chen Chen, Huaqi Qiu, Wenjia Bai, Daniel Rueckert\
 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2020. <br />
-<br /><br />
+<br />
 
 <img align="left" width="300" src="/images/overview.jpeg" style="margin-right: 15px" /> 
 
 **Deep learning for cardiac image segmentation: a review**\
 Chen Chen, **Chen Qin**, Huaqi Qiu, Giacomo Tarroni, Jinming Duan, Wenjia Bai, Daniel Rueckert\
 Frontiers in Cardiovascular Medicine, 2020. <br />
-<br /><br />
+<br />
 
 <img align="left" width="300" src="/images/ktNEXT.png" style="margin-right: 15px" /> 
 
 **k-t NEXT: Dynamic MR Image Reconstruction Exploiting Spatio-Temporal Correlations**\
 **Chen Qin**, Jo Schlemper, Jinming Duan, Gavin Seegoolam, Anthony Price, Joseph Hajnal, Daniel Rueckert\
 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2019. <br />
-<br /><br /><br />
+<br /><br /><br /><br />
 <img align="left" width="300" src="/images/UMDIR.png" style="margin-right: 15px" /> 
 
 **Unsupervised Deformable Registration for Multi-modal Images via Disentangled Representations**\
 **Chen Qin**, Bibo Shi, Rui Liao, Tommaso Mansi, Daniel Rueckert, Ali Kamen\
 International Conference on Information Processing in Medical Imaging, 2019. <br />
-<br /><br />
+<br />
 
 <img align="left" width="300" src="/images/MotionNet.png" style="margin-right: 15px" /> 
 
 **Joint learning of motion estimation and segmentation for cardiac MR image sequencesn**\
 **Chen Qin**, Wenjia Bai, Jo Schlemper, Steffen E Petersen, Stefan K Piechnik, Stefan Neubauer, Daniel Rueckert\
 IEEE Transactions on Medical Imaging, 2018. <br />
-<br /><br />
+<br />
 
 <img align="left" width="300" src="/images/CRNN-MRI.png" style="margin-right: 15px" /> 
 
