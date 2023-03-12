@@ -35,7 +35,7 @@ Hollan Haule is a PhD student at The University of Edinburgh co-supervised by Dr
 
 **Jingshuai Liu**, PhD Student (2019 - )\
 Jingshuai Liu is a PhD student at The University of Edinburgh co-supervised by Dr Mehrdad Yaghoobi and Dr Chen Qin. His research is focused on fast and robust MRI reconstruction with deep learning. <br />
-<br /><br /> 
+<br /><br /> <br /> 
 
 MEng and MSc Students
 ------
