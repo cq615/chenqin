@@ -74,7 +74,7 @@ Frontiers in Cardiovascular Medicine, 2020. <br />
 **k-t NEXT: Dynamic MR Image Reconstruction Exploiting Spatio-Temporal Correlations**\
 **Chen Qin**, Jo Schlemper, Jinming Duan, Gavin Seegoolam, Anthony Price, Joseph Hajnal, Daniel Rueckert\
 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2019. <br />
-<br />
+<br /><br /><br />
 
 <img align="left" width="300" src="/images/UMDIR.png" style="margin-right: 15px" /> 
 
