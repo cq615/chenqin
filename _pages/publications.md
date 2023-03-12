@@ -22,4 +22,9 @@ For a full list of our publications, please refer to my [Google Scholar profile]
 Selected Publications
 ------
 
+<img align="left" width="300" src="/images/framework_v1.png" style="margin-right: 15px" /> &nbsp;&nbsp;&nbsp;&nbsp;
 
+**Generative myocardial motion tracking via latent space exploration with biomechanics-informed prior**
+
+Medical Image Analysis, 2023. <br />
+<br />
