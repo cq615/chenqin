@@ -46,7 +46,7 @@ IEEE Transactions on Medical Imaging, 2022. <br />
 **Complementary time‐frequency domain networks for dynamic parallel MR image reconstruction**\
 **Chen Qin**, Jinming Duan, Kerstin Hammernik, Jo Schlemper, Thomas Küstner, René Botnar, Claudia Prieto, Anthony N Price, Joseph V Hajnal, Daniel Rueckert\
 Magnetic Resonance in Medicine, 2021. <br />
-<br /><br />
+<br /><br /><br />
 
 <!-- <img align="left" width="300" src="/images/JointSR.png" style="margin-right: 15px" /> 
 
