@@ -19,7 +19,7 @@ Shaoming Zheng obtained his M.S.E. in Robotics from General Robotics, Automation
 
 **Yinsong Wang**, PhD Student (2023 - )\
 Some text <br />
-<br /><br /> <br /><br />
+<br /><br /> <br /><br /><br />
 
 <img align="left" width="200" src="/images/bio-photo.jpg" style="margin-right: 15px" /> 
 
