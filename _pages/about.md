@@ -35,9 +35,7 @@ News
 
 Contact
 ------
-Email: c dot qin15 at imperial dot ac dot uk
-
-Twitter: Chen_Qin615
-
+Email: c dot qin15 at imperial dot ac dot uk\
+Twitter: @Chen_Qin615\
 Address: Translation & Innovation Hub (I-Hub), White City Campus, Imperial College London, W12 7TA
 
