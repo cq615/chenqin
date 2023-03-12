@@ -38,14 +38,14 @@ Medical Image Analysis, 2022. <br />
 
 **MulViMotion: Shape-aware 3D Myocardial Motion Tracking from Multi-View Cardiac MRI**\
 Qingjie Meng, **Chen Qin**, Wenjia Bai, Tianrui Liu, Antonio De Marvao, Declan P O’Regan, Daniel Rueckert\
-IEEE Transactions on Medical Imaging, 2022. <br />
+IEEE Transactions on Medical Imaging, 2022. \[[code](https://github.com/cq615/Multiview-Motion-Estimation-for-3D-cardiac-motion-tracking)\]<br />
 <br />
 
 <img align="left" width="300" src="/images/CTFNet.jpeg" style="margin-right: 15px" /> 
 
 **Complementary time‐frequency domain networks for dynamic parallel MR image reconstruction**\
 **Chen Qin**, Jinming Duan, Kerstin Hammernik, Jo Schlemper, Thomas Küstner, René Botnar, Claudia Prieto, Anthony N Price, Joseph V Hajnal, Daniel Rueckert\
-Magnetic Resonance in Medicine, 2021. <br />
+Magnetic Resonance in Medicine, 2021. \[[code](https://github.com/cq615/kt-Dynamic-MRI-Reconstruction)\]<br />
 <br /><br /><br />
 
 <!-- <img align="left" width="300" src="/images/JointSR.png" style="margin-right: 15px" /> 
@@ -59,7 +59,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 **Biomechanics-Informed Neural Networks for Myocardial Motion Tracking in MRI**\
 **Chen Qin**, Shuo Wang, Chen Chen, Huaqi Qiu, Wenjia Bai, Daniel Rueckert\
-International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2020. <br />
+International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2020. \[[code](https://github.com/cq615/Biomechanics-informed-motion-tracking)\] <br />
 <br />
 
 <img align="left" width="300" src="/images/overview.jpeg" style="margin-right: 15px" /> 
@@ -73,7 +73,7 @@ Frontiers in Cardiovascular Medicine, 2020. <br />
 
 **k-t NEXT: Dynamic MR Image Reconstruction Exploiting Spatio-Temporal Correlations**\
 **Chen Qin**, Jo Schlemper, Jinming Duan, Gavin Seegoolam, Anthony Price, Joseph Hajnal, Daniel Rueckert\
-International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2019. <br />
+International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2019. \[[code](https://github.com/cq615/kt-Dynamic-MRI-Reconstruction)\] <br />
 <br /><br /><br /><br />
 <img align="left" width="300" src="/images/UMDIR.png" style="margin-right: 15px" /> 
 
@@ -86,14 +86,14 @@ International Conference on Information Processing in Medical Imaging, 2019. <br
 
 **Joint learning of motion estimation and segmentation for cardiac MR image sequencesn**\
 **Chen Qin**, Wenjia Bai, Jo Schlemper, Steffen E Petersen, Stefan K Piechnik, Stefan Neubauer, Daniel Rueckert\
-IEEE Transactions on Medical Imaging, 2018. <br />
+IEEE Transactions on Medical Imaging, 2018. \[[code](https://github.com/cq615/Joint-Motion-Estimation-and-Segmentation)\] <br />
 <br />
 
 <img align="left" width="300" src="/images/CRNN-MRI.png" style="margin-right: 15px" /> 
 
 **Convolutional recurrent neural networks for dynamic MR image reconstruction**\
 **Chen Qin**, Jo Schlemper, Jose Caballero, Anthony N Price, Joseph V Hajnal, Daniel Rueckert\
-International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2018. <br />
+International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2018. \[[code](https://github.com/cq615/CRNN-MRI)\]  <br />
 <br />
 
 
