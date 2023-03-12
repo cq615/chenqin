@@ -43,7 +43,7 @@ Medical Image Analysis, 2022. <br />
  -->
 <img align="left" width="300" src="/images/Tian.jpeg" style="margin-right: 15px" /> 
 
-**Adversarial counterfactual augmentation: application in Alzheimer’s disease classification**\Tian Xia, Pedro Sanchez, **Chen Qin**, Sotirios A Tsaftaris\
+**Adversarial counterfactual augmentation: application in Alzheimer’s disease classification** Tian Xia, Pedro Sanchez, **Chen Qin**, Sotirios A Tsaftaris\
 Frontiers in Radiology, 2022. <br />
 <br /><br /> 
  
