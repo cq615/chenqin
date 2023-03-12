@@ -17,3 +17,7 @@ I am working on several projects in machine learning, high-performance medical i
 
 Projects
 ------
+- Machine Learning for Accelerated Imaging
+- Deep Generative Models for Inverse Problems in Medical Imaging
+- Prior-Informed Deep Learning for Image Registration Applications
+- Trustworthy and Robust Machine Learning in Medical Imaging
