@@ -14,7 +14,7 @@ Research Interest
 ======
 Machine Learning, Deep Learning, Medical Image Analysis, Computer Vision
 
-My research interest is at the interdisciplinary field of artificial intelligence and healthcare, aiming to improve the entire medical imaging/radiology workflow with significant impact for clinical use via machine intelligence. My current research mainly focuses on the development of effective and robust machine learning algorithms for medical image computing and analysis, such as MR image reconstruction, medical image segmentation, image registration and motion tracking . 
+My research is interdisciplinary in nature and at the intersection between machine learning and medical imaging, with a vision towards improving medical imaging workflow via machine intelligence for significant impact in clinical use. Our current research mainly focuses on the development of effective and robust machine learning algorithms for medical image computing and analysis, such as MR image reconstruction, medical image segmentation, image registration and motion tracking. We are currently mainly working on clinical applications of medical image computing in neurology and cardiology. 
 
 We are also part of the [Biomedical Image Analysis Group](https://biomedia.doc.ic.ac.uk/).
 
@@ -24,6 +24,9 @@ I am looking for highly motivated PhD students to work on machine learning for m
 
 News
 ======
+
+\[02/2023\] One paper accepted at IEEE Trasactions on Computational Imaging
+\[01/2023\] One paper accepted at IEEE International Symposium on Biomedical Imaging (ISBI), 2023
 
 Contact
 ======
