@@ -14,3 +14,6 @@ I am working on several projects in machine learning, high-performance medical i
 <p align="center"> 
   <img width="600" src="/images/word cloud.png" />
 </p>
+
+Projects
+------
