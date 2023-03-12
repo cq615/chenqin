@@ -27,7 +27,7 @@ Yinsong Wang, Huaqi Qiu, **Chen Qin**\
 IEEE International Symposium on Biomedical Imaging (ISBI), 2023. <br />
 <br /><br />
 
-<img align="left" width="300" src="/images/adversarialDA.jpg" style="margin-right: 15px" /> 
+<img align="left" width="400" src="/images/adversarialDA.jpg" style="margin-right: 15px" /> 
 
 **Enhancing MR image segmentation with realistic adversarial data augmentation**\
 Chen Chen, **Chen Qin**, Cheng Ouyang, Zeju Li, Shuo Wang, Huaqi Qiu, Liang Chen, Giacomo Tarroni, Wenjia Bai, Daniel Rueckert\
@@ -48,7 +48,7 @@ IEEE Transactions on Medical Imaging, 2022. <br />
 Magnetic Resonance in Medicine, 2021. <br />
 <br /><br />
 
-<img align="left" width="300" src="/images/JointSR.png" style="margin-right: 15px" /> 
+<img align="left" width="400" src="/images/JointSR.png" style="margin-right: 15px" /> 
 
 **Joint Motion Correction and Super Resolution for Cardiac Segmentation via Latent Optimisation**\
 Shuo Wang, **Chen Qin**, Nicolo Savioli, Chen Chen, Declan P O’Regan, Stuart Cook, Yike Guo, Daniel Rueckert, Wenjia Bai\
