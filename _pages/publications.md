@@ -39,7 +39,7 @@ Medical Image Analysis, 2022. <br />
 **MulViMotion: Shape-aware 3D Myocardial Motion Tracking from Multi-View Cardiac MRI**\
 Qingjie Meng, **Chen Qin**, Wenjia Bai, Tianrui Liu, Antonio De Marvao, Declan P O’Regan, Daniel Rueckert\
 IEEE Transactions on Medical Imaging, 2022. <br />
-<br />
+<br /><br />
 
 <img align="left" width="300" src="/images/CTFNet.jpeg" style="margin-right: 15px" /> 
 
@@ -60,7 +60,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 **Biomechanics-Informed Neural Networks for Myocardial Motion Tracking in MRI**\
 **Chen Qin**, Shuo Wang, Chen Chen, Huaqi Qiu, Wenjia Bai, Daniel Rueckert\
 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2020. <br />
-<br />
+<br /><br />
 
 <img align="left" width="300" src="/images/overview.jpeg" style="margin-right: 15px" /> 
 
@@ -81,7 +81,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 **Unsupervised Deformable Registration for Multi-modal Images via Disentangled Representations**\
 **Chen Qin**, Bibo Shi, Rui Liao, Tommaso Mansi, Daniel Rueckert, Ali Kamen\
 International Conference on Information Processing in Medical Imaging, 2019. <br />
-<br />
+<br /><br />
 
 <img align="left" width="300" src="/images/MotionNet.png" style="margin-right: 15px" /> 
 
