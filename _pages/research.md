@@ -11,6 +11,6 @@ I am working on several projects in machine learning, high-performance medical i
 
 <!-- <img align="center" width="600" src="/images/word cloud.png" />  -->
 
-<p align="center"> 
+<p align="center" width="600"> 
   <img src="/images/word cloud.png" />
 </p>
