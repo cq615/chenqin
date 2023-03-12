@@ -17,5 +17,5 @@ Selected Publications
 
 **Generative myocardial motion tracking via latent space exploration with biomechanics-informed prior**
 
-Medical Image Analysis, 2023. \[[code](https://scholar.google.com/citations?hl=en&user=mTWrOqHOqjoC&view_op=list_works&sortby=pubdate)\]<br />
+Medical Image Analysis, 2023. \[[code](https://github.com/cq615/BIGM-motion-tracking)\]<br />
 <br />
