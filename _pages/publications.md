@@ -25,7 +25,7 @@ Medical Image Analysis, 2023. \[[code](https://github.com/cq615/BIGM-motion-trac
 **Conditional Deformable Image Registration with Spatially-Variant and Adaptive Regularization**\
 Yinsong Wang, Huaqi Qiu, **Chen Qin**\
 IEEE International Symposium on Biomedical Imaging (ISBI), 2023. <br />
-<br />
+<br /><br />
 
 <!-- <img align="left" width="300" src="/images/adversarialDA.jpg" style="margin-right: 15px" /> 
 
@@ -67,7 +67,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 **Deep learning for cardiac image segmentation: a review**\
 Chen Chen, **Chen Qin**, Huaqi Qiu, Giacomo Tarroni, Jinming Duan, Wenjia Bai, Daniel Rueckert\
 Frontiers in Cardiovascular Medicine, 2020. <br />
-<br />
+<br /><br />
 
 <img align="left" width="300" src="/images/ktNEXT.png" style="margin-right: 15px" /> 
 
