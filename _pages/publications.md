@@ -27,6 +27,13 @@ Yinsong Wang, Huaqi Qiu, **Chen Qin**\
 IEEE International Symposium on Biomedical Imaging (ISBI), 2023. <br />
 <br /><br />
 
+<img align="left" width="300" src="/images/Jingshuai.png" style="margin-right: 15px" /> 
+
+**High-Fidelity MRI Reconstruction Using Adaptive Spatial Attention Selection and Deep Data Consistency Prior**\
+Jingshuai Liu, **Chen Qin**, Mehrdad Yaghoobi\
+IEEE Transactions on Computational Imaging, 2023. <br />
+<br /><br />
+
 <!-- <img align="left" width="300" src="/images/adversarialDA.jpg" style="margin-right: 15px" /> 
 
 **Enhancing MR image segmentation with realistic adversarial data augmentation**\
