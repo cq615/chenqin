@@ -17,5 +17,9 @@ author_profile: true
 
 {% include base_path %}
 
+For a full list of our publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=mTWrOqHOqjoC&hl=en).
+
 Selected Publications
-======
+------
+
+
