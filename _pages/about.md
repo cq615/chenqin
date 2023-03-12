@@ -25,8 +25,9 @@ I am looking for highly motivated PhD students to work on machine learning for m
 News
 ======
 
-\[02/2023\] One paper accepted at IEEE Trasactions on Computational Imaging
-\[01/2023\] One paper accepted at IEEE International Symposium on Biomedical Imaging (ISBI), 2023
+\[02/2023\] One paper accepted at IEEE Trasactions on Computational Imaging\
+\[01/2023\] One paper accepted at IEEE International Symposium on Biomedical Imaging (ISBI), 2023\
+\[01/2023\] One paper accepted at Medical Image Analysis (led by Yantai University and Fudan University), 2023\
 
 Contact
 ======
