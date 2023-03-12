@@ -16,7 +16,7 @@ Selected Publications
 <img align="left" width="300" src="/images/framework_v1.png" style="margin-right: 15px" /> 
 
 **Generative myocardial motion tracking via latent space exploration with biomechanics-informed prior**\
-**Chen Qin**, Shuo Wang, Chen Chen, Wenjia Bai, Daniel Rueckert.\
+**Chen Qin**, Shuo Wang, Chen Chen, Wenjia Bai, Daniel Rueckert\
 Medical Image Analysis, 2023. \[[code](https://github.com/cq615/BIGM-motion-tracking)\]<br />
 <br />
 
@@ -26,3 +26,33 @@ Medical Image Analysis, 2023. \[[code](https://github.com/cq615/BIGM-motion-trac
 Yinsong Wang, Huaqi Qiu, **Chen Qin**\
 IEEE International Symposium on Biomedical Imaging (ISBI), 2023. <br />
 <br />
+
+<img align="left" width="300" src="/images/adversarialDA.jpg" style="margin-right: 15px" /> 
+
+**Enhancing MR image segmentation with realistic adversarial data augmentation**\
+Chen Chen, **Chen Qin**, Cheng Ouyang, Zeju Li, Shuo Wang, Huaqi Qiu, Liang Chen, Giacomo Tarroni, Wenjia Bai, Daniel Rueckert\
+Medical Image Analysis, 2022. <br />
+<br />
+
+<img align="left" width="300" src="/images/Mulvimotion.png" style="margin-right: 15px" /> 
+
+**MulViMotion: Shape-aware 3D Myocardial Motion Tracking from Multi-View Cardiac MRI**\
+Qingjie Meng, **Chen Qin**, Wenjia Bai, Tianrui Liu, Antonio De Marvao, Declan P O’Regan, Daniel Rueckert\
+IEEE Transactions on Medical Imaging, 2022. <br />
+<br />
+
+<img align="left" width="300" src="/images/CTFNet.jpeg" style="margin-right: 15px" /> 
+
+**Complementary time‐frequency domain networks for dynamic parallel MR image reconstruction**\
+**Chen Qin**, Jinming Duan, Kerstin Hammernik, Jo Schlemper, Thomas Küstner, René Botnar, Claudia Prieto, Anthony N Price, Joseph V Hajnal, Daniel Rueckert\
+Magnetic Resonance in Medicine, 2021. <br />
+<br />
+
+<img align="left" width="300" src="/images/JointSR.png" style="margin-right: 15px" /> 
+
+**Joint Motion Correction and Super Resolution for Cardiac Segmentation via Latent Optimisation**\
+Shuo Wang, **Chen Qin**, Nicolo Savioli, Chen Chen, Declan P O’Regan, Stuart Cook, Yike Guo, Daniel Rueckert, Wenjia Bai\
+International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2021. <br />
+<br />
+
+
