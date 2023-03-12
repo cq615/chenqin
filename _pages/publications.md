@@ -67,7 +67,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 **Deep learning for cardiac image segmentation: a review**\
 Chen Chen, **Chen Qin**, Huaqi Qiu, Giacomo Tarroni, Jinming Duan, Wenjia Bai, Daniel Rueckert\
 Frontiers in Cardiovascular Medicine, 2020. <br />
-<br /><br />
+<br /><br /><br />
 
 <img align="left" width="300" src="/images/ktNEXT.png" style="margin-right: 15px" /> 
 
@@ -88,7 +88,7 @@ International Conference on Information Processing in Medical Imaging, 2019. <br
 **Joint learning of motion estimation and segmentation for cardiac MR image sequencesn**\
 **Chen Qin**, Wenjia Bai, Jo Schlemper, Steffen E Petersen, Stefan K Piechnik, Stefan Neubauer, Daniel Rueckert\
 IEEE Transactions on Medical Imaging, 2018. <br />
-<br /><br />
+<br /><br /><br />
 
 <img align="left" width="300" src="/images/CRNN-MRI.png" style="margin-right: 15px" /> 
 
