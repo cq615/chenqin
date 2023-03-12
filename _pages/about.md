@@ -24,10 +24,13 @@ I am looking for highly motivated PhD students to work on machine learning for m
 
 News
 ======
-
+\[03/2023\] **Call for papers** for our special issues on "[The role of artificial intelligence in MRI/MRS acquisition and reconstruction](https://www.springer.com/journal/10334/updates/24073742)" in Magnetic Resonance Materials in Physics, Biology and Medicine\
 \[02/2023\] One paper accepted at IEEE Trasactions on Computational Imaging\
 \[01/2023\] One paper accepted at IEEE International Symposium on Biomedical Imaging (ISBI), 2023\
 \[01/2023\] One paper accepted at Medical Image Analysis (led by Yantai University and Fudan University), 2023\
+\[12/2022\] **Call for papers** for our research topic on "[The Combination of Data-Driven Machine Learning Approaches and Prior Knowledge for Robust Medical Image Processing and Analysis](https://www.frontiersin.org/research-topics/49385/the-combination-of-data-driven-machine-learning-approaches-and-prior-knowledge-for-robust-medical-image-processing-and-analysis)" in Frontiers in Medicine\
+\[12/2022\] One paper accepted at Medical Image Analysis, 2023\
+
 
 Contact
 ======
