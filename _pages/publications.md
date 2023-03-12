@@ -46,7 +46,7 @@ IEEE Transactions on Medical Imaging, 2022. <br />
 **Complementary time‐frequency domain networks for dynamic parallel MR image reconstruction**\
 **Chen Qin**, Jinming Duan, Kerstin Hammernik, Jo Schlemper, Thomas Küstner, René Botnar, Claudia Prieto, Anthony N Price, Joseph V Hajnal, Daniel Rueckert\
 Magnetic Resonance in Medicine, 2021. <br />
-<br />
+<br /><br />
 
 <!-- <img align="left" width="300" src="/images/JointSR.png" style="margin-right: 15px" /> 
 
@@ -67,7 +67,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 **Deep learning for cardiac image segmentation: a review**\
 Chen Chen, **Chen Qin**, Huaqi Qiu, Giacomo Tarroni, Jinming Duan, Wenjia Bai, Daniel Rueckert\
 Frontiers in Cardiovascular Medicine, 2020. <br />
-<br />
+<br /><br />
 
 <img align="left" width="300" src="/images/ktNEXT.png" style="margin-right: 15px" /> 
 
@@ -80,7 +80,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 **Unsupervised Deformable Registration for Multi-modal Images via Disentangled Representations**\
 **Chen Qin**, Bibo Shi, Rui Liao, Tommaso Mansi, Daniel Rueckert, Ali Kamen\
-International Conference on Information Processing in Medical Imaging (IPMI), 2019. <br />
+International Conference on Information Processing in Medical Imaging, 2019. <br />
 <br />
 
 <img align="left" width="300" src="/images/MotionNet.png" style="margin-right: 15px" /> 
