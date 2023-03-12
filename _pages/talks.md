@@ -27,5 +27,5 @@ author_profile: true
    
 - **MR Image Reconstruction: How Deep Learning Will Shape the Future of MRI**\
    at Institute of Science and Technology for Brain-inspired Intelligence, Fudan University, China, May 2021\
-   at 11th Annual Scientific Symposium on Ultrahigh Field Magnetic Resonance, Germany (Online), Sep, 2020 
+   at 11th Annual Scientific Symposium on Ultrahigh Field Magnetic Resonance, Germany ([Online](https://www.youtube.com/watch?v=_K2Av7woSZM&t=3s&ab_channel=chenqin)), Sep, 2020 
    
