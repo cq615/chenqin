@@ -25,10 +25,10 @@ Some text <br />
 Co-supervised PhD Students
 ------
 
-<img align="left" width="200" src="/images/bio-photo.jpg" style="margin-right: 15px" /> 
+<img align="left" width="200" src="/images/Hollan.jpg" style="margin-right: 15px" /> 
 
 **Hollan Haule**, PhD Student (2021 - )\
-Hollan Haule is a PhD student at The University of Edinburgh co-supervised by Dr Javier Escudero Rodriguez and Dr Chen Qin. His research is focused on investigating deep learning for artefacts detection in time-series data. <br />
+Hollan Haule is a PhD student at The University of Edinburgh co-supervised by Dr Javier Escudero Rodriguez, Dr Chen Qin and Dr Milly Lo. He received a BSc in Computer Engineering and Information Technology, October 2011, at the University of Dar es Salaam, Tanzania and an MSc degree in Artificial Intelligence, November 2017, at the University of Edinburgh, UK. His research focus is on biomedical time-series data analysis using machine learning. <br />
 <br /><br /> <br /> 
 
 <img align="left" width="200" src="/images/Jingshuai_Liu.png" style="margin-right: 15px" /> 
