@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-PhD Students (Under Construction)
+PhD Students
 ------
 <img align="left" width="200" src="/images/Shaoming.jpg" style="margin-right: 15px" /> 
 
@@ -19,7 +19,7 @@ Shaoming Zheng obtained his M.S.E. in Robotics from General Robotics, Automation
 
 **Yinsong Wang**, PhD Student (2023 - )\
 Yinsong Wang received his MSc degree in Signal Processing and Communications from the University of Edinburgh in 2022. Before that, he received his B.S. in Telecommunications from a joint program between Beijing University of Posts and Telecommunications and Queen Mary University of London in 2021. His main research interests are using deep learning approaches on medical image registration. <br />
-<br />
+<br /><br /> <br /> 
 
 <img align="left" width="200" src="/images/Yuyang.jpg" style="margin-right: 15px" /> 
 
