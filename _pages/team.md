@@ -25,7 +25,7 @@ Yinsong Wang received his MSc degree in Signal Processing and Communications fro
 
 **Yuyang Xue**, PhD Student (2022 - )\
 Yuyang Xue is currently a PhD student at the University of Edinburgh. He is also co-supervised by Prof. Sotirios Tsaftaris. His main research interests are Generative Models and Medical Imaging in Deep Learning. He received his MSc degree in Computer Science from the University of Southampton and Bachelor's degree in computer science from Fuzhou University, China. <br />
-<br />
+<br /><br /> <br /> 
 
 
 Co-supervised PhD Students
