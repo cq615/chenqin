@@ -21,15 +21,15 @@ Shaoming Zheng obtained his M.S.E. in Robotics from General Robotics, Automation
 Yinsong Wang received his MSc degree in Signal Processing and Communications from the University of Edinburgh in 2022. Before that, he received his B.S. in Telecommunications from a joint program between Beijing University of Posts and Telecommunications and Queen Mary University of London in 2021. His main research interests are using deep learning approaches on medical image registration. <br />
 <br /><br /> <br /> 
 
+
+Co-supervised PhD Students
+------
+
 <img align="left" width="200" src="/images/Yuyang.jpg" style="margin-right: 15px" /> 
 
 **Yuyang Xue**, PhD Student (2022 - )\
 Yuyang Xue is currently a PhD student at the University of Edinburgh. He is also co-supervised by Prof. Sotirios Tsaftaris. His main research interests are Generative Models and Medical Imaging in Deep Learning. He received his MSc degree in Computer Science from the University of Southampton and Bachelor's degree in computer science from Fuzhou University, China. <br />
 <br /><br /> <br /> 
-
-
-Co-supervised PhD Students
-------
 
 <img align="left" width="200" src="/images/Hollan.jpg" style="margin-right: 15px" /> 
 
