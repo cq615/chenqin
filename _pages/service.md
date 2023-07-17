@@ -10,7 +10,6 @@ author_profile: true
 Program Committee & Area Chair
 ------
 - Area Chair, [MICCAI 2022 & 2023](https://conferences.miccai.org/2023/en/)
-- Session Chair, [ISMRM 2023](https://www.ismrm.org/23m/)
 - Organisation Committee, MICCAI workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging ([UNSURE](https://unsuremiccai.github.io/)), 2022 & 2023
 - Organisation Committee, MICCAI workshop on Distributed, Collaborative and Federated Learning ([DeCaF](https://decaf-workshop.github.io/decaf-2022/)), 2022 & 2023
 - Organisation Committee, MICCAI challenge on Cardiac MRI Reconstruction (CMRxRecon), 2023
