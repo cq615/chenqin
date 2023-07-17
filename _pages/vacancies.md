@@ -29,7 +29,7 @@ You should also have:
 
 Online applications will open soon. Please stay tuned. 
 
-If you are interested in these positions, please feel free to get in touch with Dr Chen Qin - c.qin15@imperial.ac.uk, indicate which position you are interested and attach:
+If you are interested in these positions, please feel free to get in touch with Dr Chen Qin - c.qin15@imperial.ac.uk, indicate which position you are interested in and attach:
 - A full CV, with a list of all publications
 - A short statement indicating what you see are interesting research issues relating to the above post and why your expertise is relevant.
 - Any element relating your experience / passion for software engineering (blog, open source projects, GitHub repositories, and others) will be carefully inspected.
