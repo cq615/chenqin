@@ -22,6 +22,8 @@ Opening
 ------
 I am looking for highly motivated PhD students to work on machine learning for medical image computing at Imperial College London. Prospective students will have a good first degree in Computer Science, Electrical Engineering, Automation or other engineering-related disciplines. Please feel free to drop me an email if you're interested.
 
+I am looking for two research assistants/associates on machine learning in medical imaging. For details, please check the [Vacancies page](https://cq615.github.io/vacancies/).
+
 News
 ------
 \[05/2023\] **Call for participation** for our MICCAI challenge on "[Cardiac MRI Reconstruction](https://cmrxrecon.github.io/)" to be held in conjunction with MICCAI 2023\
