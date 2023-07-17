@@ -4,6 +4,15 @@ title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
+- **Artificial Intelligence Meets Medical Imaging**\
+   at Imperial MedTech Links, London, UK, July 2023
+  
+- **Basic Principles of Fast MRI with AI-Based Acquisition & Reconstruction**\
+   at ISMRM Educational Session on Artificial Intelligence in Musculoskeletal MRI, Toronto, Canada, June 2023
+  
+- **Deep CMR: Getting it to Work**\
+   at ISMRM Member-initiated Tutorials on The Cardiac MRI Rodeo: Taming AI for Clinical Practice, Toronto, Canada, June 2023
+  
 - **Deep Learning Meets Medical Imaging: From Signal to Clinically Useful Information**\
    at Statistics Seminars, School of Mathematics, University of Bristol, UK (Online), March 2023\
    at TCIN Imaging Interest Group, Trinity College Dublin, Ireland (Online), Nov 2021\
