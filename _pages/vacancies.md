@@ -27,7 +27,9 @@ You should also have:
 - At Research Assistant level you will need to have a good (1st or 2.1) undergraduate degree in a relevant discipline.
 - At Research Associate level you must have been awarded a PhD (or equivalent) in a subject relevant to the post.
 
-Online applications will open soon. Please stay tuned. If you are interested in these positions, please feel free to get in touch with Dr Chen Qin - c.qin15@imperial.ac.uk, and attach:
+Online applications will open soon. Please stay tuned. 
+
+If you are interested in these positions, please feel free to get in touch with Dr Chen Qin - c.qin15@imperial.ac.uk, indicate which position you are interested and attach:
 - A full CV, with a list of all publications
 - A short statement indicating what you see are interesting research issues relating to the above post and why your expertise is relevant.
 - Any element relating your experience / passion for software engineering (blog, open source projects, GitHub repositories, and others) will be carefully inspected.
