@@ -260,6 +260,14 @@ defaults:
       layout: service
       author_profile: true
       share: true
+  # _vacancies
+  - scope:
+      path: ""
+      type: vacancies
+    values:
+      layout: vacancies
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
