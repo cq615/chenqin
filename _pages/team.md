@@ -35,7 +35,7 @@ Yuyang Xue is currently a PhD student at the University of Edinburgh. He is also
 
 **Hollan Haule**, PhD Student (2021 - )\
 Hollan Haule is a PhD student at The University of Edinburgh co-supervised by Dr Javier Escudero Rodriguez, Dr Chen Qin and Dr Milly Lo. He received a BSc in Computer Engineering and Information Technology, October 2011, at the University of Dar es Salaam, Tanzania and an MSc degree in Artificial Intelligence, November 2017, at the University of Edinburgh, UK. His research focus is on biomedical time-series data analysis using machine learning. <br />
-<br /><br /> <br /> 
+<br /><br /> <br />  <br /> 
 
 MEng and MSc Students
 ------
