@@ -26,6 +26,8 @@ I am looking for two research assistants/associates on machine learning in medic
 
 News
 ------
+\[07/2023\] Dr Chen Qin is awarded the EPSRC New Investigator Award for the project “TrustMRI: Trustworthy and Robust Magnetic Resonance Image Reconstruction with Uncertainty Modelling and Deep Learning”.\
+\[07/2023\] Dr Chen Qin is awarded the EPSRC Early Career Researcher International Collaboration Grants for the project “Towards Motion-Robust and Efficient Functional MRI Using Implicit Function Learning”.\
 \[05/2023\] **Call for participation** for our MICCAI challenge on "[Cardiac MRI Reconstruction](https://cmrxrecon.github.io/)" to be held in conjunction with MICCAI 2023\
 \[03/2023\] **Call for papers** for our special issues on "[The role of artificial intelligence in MRI/MRS acquisition and reconstruction](https://www.springer.com/journal/10334/updates/24073742)" in Magnetic Resonance Materials in Physics, Biology and Medicine\
 \[02/2023\] One paper accepted at IEEE Trasactions on Computational Imaging\
