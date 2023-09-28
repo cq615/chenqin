@@ -35,13 +35,6 @@ Yuyang Xue is currently a PhD student at the University of Edinburgh. He is also
 
 **Hollan Haule**, PhD Student (2021 - )\
 Hollan Haule is a PhD student at The University of Edinburgh co-supervised by Dr Javier Escudero Rodriguez, Dr Chen Qin and Dr Milly Lo. He received a BSc in Computer Engineering and Information Technology, October 2011, at the University of Dar es Salaam, Tanzania and an MSc degree in Artificial Intelligence, November 2017, at the University of Edinburgh, UK. His research focus is on biomedical time-series data analysis using machine learning. <br />
-<br /><br /> <br /> 
-
-<img align="left" width="200" src="/images/Jingshuai_Liu.png" style="margin-right: 15px" /> 
-
-**Jingshuai Liu**, PhD Student (2019 - )\
-Jingshuai Liu received his Bachelor's degree in Electronic Science and Technology from Tianjin University, Tianjin, China, in 2016. He received his Master's degree in Signal Processing and Communications in 2018 at The University of Edinburgh, Edinburgh, UK, where he is currently working towards the Ph.D. degree, supervised by Dr Mehrdad Yaghoobi and co-supervised by Dr Chen Qin. His research interests include medical imaging, signal processing, deep learning, and computer vision. <br />
-<br />
 
 MEng and MSc Students
 ------
@@ -53,6 +46,7 @@ MEng and MSc Students
 
 Alumni
 ------
+- Jingshuai Liu, PhD, University of Edinburgh, 2023
 - Yichuan Ma, MSc in Signal Processing and Communications, 2022
 - Yufeng Zhang, BEng in Electronics and Electrical Engineering, 2022
 - Huanchang Liu, MSc in Signal Processing and Communications, 2021
