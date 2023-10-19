@@ -21,9 +21,21 @@ Shaoming Zheng obtained his M.S.E. in Robotics from General Robotics, Automation
 Yinsong Wang received his MSc degree in Signal Processing and Communications from the University of Edinburgh in 2022. Before that, he received his B.S. in Telecommunications from a joint program between Beijing University of Posts and Telecommunications and Queen Mary University of London in 2021. His main research interests are using deep learning approaches on medical image registration. <br />
 <br /><br /> <br /> 
 
+<img align="left" width="200" src="/images/Siyi.jpg" style="margin-right: 15px" /> 
+
+**[Siyi Du](https://siyi-wind.github.io/)**, PhD Student (2023 - )\
+Siyi Du received her M.A.Sc. degree in Electrical and Computer Engineering from the University of British Columbia at 2023. She obained her B.E. degree in Automation Science (Pattern Recognition direction) from Beihang University at 2021. Her main research interest is using novel deep learning methodologies to improve biomedical imaging. <br />
+<br /><br /> <br /> 
+
 
 Co-supervised PhD Students
 ------
+<img align="left" width="200" src="/images/Emily.jpg" style="margin-right: 15px" /> 
+
+**[Emily Yik Kwan Chan](https://www.imperial.ac.uk/people/emily.chan21)**, PhD Student (2022 - )\
+Emily is a PhD student whose current research is focusing on traumatic brain injury (TBI) prediction in head impact caused by rapid mechanical loading in sports, which lies in the intersection of kinematics, neuroscience and engineering. She is investigating the biomechanic mechanism of the head impacts in sports, identifying the risk factor of neurodegeneration, and surrogate modelling of finite element methods by machine learning methods, with the aim of real-time TBI prediction for sporting collisions. 
+Emily is supervised by Dr Mazdak Ghajari at [Human Experience, Analysis and Design (HEAD) Lab](https://www.imperial.ac.uk/human-experience-analysis-design/) at Dyson School of Design Engineering, and co-supervised by Dr Qin Chen at Electrical and Electronic Engineering, Imperial College. Her PhD study is funded by [Sports and Wellbeing Analytics (SWA)](https://swa.one/), a progressive player in the field of wearable technology.  <br />
+<br /><br /> <br /> 
 
 <img align="left" width="200" src="/images/Yuyang.jpg" style="margin-right: 15px" /> 
 
