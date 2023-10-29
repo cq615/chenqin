@@ -27,6 +27,13 @@ Yinsong Wang received his MSc degree in Signal Processing and Communications fro
 Siyi Du received her M.A.Sc. degree in Electrical and Computer Engineering from the University of British Columbia at 2023. She obained her B.E. degree in Automation Science (Pattern Recognition direction) from Beihang University at 2021. Her main research interest is using novel deep learning methodologies to improve biomedical imaging. <br />
 <br /><br /> <br /> 
 
+MRes Students
+------
+<img align="left" width="200" src="/images/Zhenlin.jpg" style="margin-right: 15px" /> 
+
+**Zhenlin Zhang**, MRes Student (2023 - )\
+Zhenlin Zhang obtained his bachelor’s degree from University of Electronic Science and Technology of China (UESTC). He is working on generative models for MRI reconstruction. He is always glad to hear from you if you have any new ideas or questions about his work. Apart from work, Zhenlin also loves football, economics and surfing the internet.  <br />
+<br /><br /> <br /> 
 
 Co-supervised PhD Students
 ------
