@@ -32,7 +32,7 @@ MRes Students
 <img align="left" width="200" src="/images/AnuragM.jpg" style="margin-right: 15px" /> 
 
 **Anurag Malyala**, MRes Student (2023 - )\
-nurag Malyala received his bachelor's degree in Computer Science from Delhi Technological University in 2019. He then worked as an Applied AI Engineer for three years, focusing on fine-grained image classification problems, document parsing, and understanding. His research is currently centred around applying Deep Generative Models for accelerated MRI reconstruction. Anurag is keenly interested in Formula One, 3D printing, and cooking. He is always open to discussing and exploring new AI and computer science research areas.  <br />
+Anurag Malyala received his bachelor's degree in Computer Science from Delhi Technological University in 2019. He then worked as an Applied AI Engineer for three years, focusing on fine-grained image classification problems, document parsing, and understanding. His research is currently centred around applying Deep Generative Models for accelerated MRI reconstruction. Anurag is keenly interested in Formula One, 3D printing, and cooking. He is always open to discussing and exploring new AI and computer science research areas.  <br />
 <br /><br /> <br /> 
 
 <img align="left" width="200" src="/images/Zhenlin.jpg" style="margin-right: 15px" /> 
