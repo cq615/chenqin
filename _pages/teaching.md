@@ -9,6 +9,7 @@ author_profile: true
 
 Current Teaching
 -----
+- Deep Learning 2023-2024 (ELEC60009/70061), Imperial College London
 - Electrical and Electronic Engineering Final Year Project (MEng), Imperial College London
 - Research Project: MSc Applied Machine Learning (MSc) (ELEC70063), Imperial College London
 
