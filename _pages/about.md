@@ -20,12 +20,14 @@ We are also part of the [Biomedical Image Analysis Group](https://biomedia.doc.i
 
 Opening
 ------
-I am looking for highly motivated PhD students to work on machine learning for medical image computing at Imperial College London. Prospective students will have a good first degree in Computer Science, Electrical Engineering, Automation or other engineering-related disciplines. Please feel free to drop me an email if you're interested.
+I am looking for highly motivated PhD students to work on machine learning for medical image computing at Imperial College London. Prospective students will have a good first degree in Computer Science, Electrical Engineering, Automation or other engineering-related disciplines. Please feel free to drop me an email if you are interested.
 
-I am looking for two research assistants/associates on machine learning in medical imaging. For details, please check the [Vacancies page](https://cq615.github.io/vacancies/).
+(Closed) I am looking for two research assistants/associates on machine learning in medical imaging. For details, please check the [Vacancies page](https://cq615.github.io/vacancies/).
 
 News
 ------
+\[05/2024\] **Call for participation** for our MICCAI challenge on "[CMRxRecon2024](https://cmrxrecon.github.io/2024/Home.html)" to be held in conjunction with MICCAI 2024\
+\[04/2024\] [One paper](https://openreview.net/forum?id=Zg0mfl10o2) accepted at Medical Imaging with Deep Learning (MIDL), 2024\
 \[07/2023\] Dr Chen Qin is awarded the **EPSRC New Investigator Award** for the project “TrustMRI: Trustworthy and Robust Magnetic Resonance Image Reconstruction with Uncertainty Modelling and Deep Learning”.\
 \[06/2023\] Dr Chen Qin is awarded the **EPSRC Early Career Researcher International Collaboration Grants** for the project “Towards Motion-Robust and Efficient Functional MRI Using Implicit Function Learning”.\
 \[05/2023\] **Call for participation** for our MICCAI challenge on "[Cardiac MRI Reconstruction](https://cmrxrecon.github.io/)" to be held in conjunction with MICCAI 2023\
@@ -41,6 +43,6 @@ News
 Contact
 ------
 Email: c dot qin15 at imperial dot ac dot uk\
-Twitter: @Chen_Qin615\
+Twitter: @Chen_Qin_ICL\
 Address: Translation & Innovation Hub (I-Hub), White City Campus, Imperial College London, W12 7TA
 
