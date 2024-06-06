@@ -12,6 +12,7 @@ Post-docs
 <img align="left" width="200" src="/images/TFletcher.jpeg" style="margin-right: 15px" /> 
 **Thomas Fletcher**, Postdoctoral Researcher (2024 - )\
 Prior to joining the group, Tom was previously a postdoctoral researcher at King's College London from 2020-2024. He worked on using machine learning for reconstruction of highly undersampled cardiac MRI. Tom's background is in Physics. He obtained his PhD in Astrophysics from University College London (UCL) in 2020, where his research focused on understanding the first galaxies using ground and space-based telescopes. He received an MSc in Astrophysics and MSci in Physics from UCL and Imperial respectively. He has also worked as a Research Scientist at the National Physical Laboratory.
+
 Tom's research interests include machine learning approaches for inverse problems, motion correction and highly undersampled reconstruction in MRI. He will be working on motion-robust and efficient fMRI.<br />
 <br />
 
