@@ -14,7 +14,7 @@ Post-docs
 Prior to joining the group, Tom was previously a postdoctoral researcher at King's College London from 2020-2024. He worked on using machine learning for reconstruction of highly undersampled cardiac MRI. Tom obtained his PhD in Astrophysics from University College London (UCL) in 2020, and received an MSc in Astrophysics and MSci in Physics from UCL and Imperial respectively. He has also worked as a Research Scientist at the National Physical Laboratory. Tom's research interests include machine learning approaches for inverse problems, motion correction and highly undersampled reconstruction in MRI. He will be working on motion-robust and efficient fMRI.<br />
 <br />
 
-<img align="left" width="200" src="/images/Xinzhe.jpeg" style="margin-right: 15px" /> 
+<img align="left" width="200" src="/images/Xinzhe.jpg" style="margin-right: 15px" /> 
 **Dr Xinzhe Luo**, Postdoctoral Researcher (2024 - )\
 Xinzhe obtained his PhD degree in Statistics in 2024 and BSc degree in Mathematics in 2019 from Fudan University, respectively. During his PhD study, his research focused on multi-modal groupwise registration and combined computing of medical images using information theory and probabilistic generative modelling. His research interests include machine learning and Bayesian inference in medical image registration and MRI reconstruction. He will be working on trustworthy AI for MRI reconstruction. <br />
 <br />
