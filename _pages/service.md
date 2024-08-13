@@ -9,7 +9,7 @@ author_profile: true
 
 Program Committee & Area Chair
 ------
-- Area Chair, [MICCAI 2022 & 2023](https://conferences.miccai.org/2023/en/)
+- Area Chair, MICCAI 2022 & 2023 & 2024
 - Organisation Committee, MICCAI workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging ([UNSURE](https://unsuremiccai.github.io/)), 2022 & 2023
 - Organisation Committee, MICCAI workshop on Distributed, Collaborative and Federated Learning ([DeCaF](https://decaf-workshop.github.io/decaf-2022/)), 2022 & 2023
 - Organisation Committee, MICCAI challenge on Cardiac MRI Reconstruction (CMRxRecon), 2023
@@ -18,6 +18,8 @@ Program Committee & Area Chair
 
 Journal Editorial
 ------
+- Associate Editor, Pattern Recognition
+- Associate Editor, SPIE Journal of Medical Imaging
 - Guest Editor, Magnetic Resonance Materials in Physics, Biology and Medicine
 - Guest Editor, Journal of Machine Learning for Biomedical Imaging (MELBA)
 - Guest Editor, Frontiers in Medicine
