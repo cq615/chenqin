@@ -26,6 +26,8 @@ I am looking for highly motivated PhD students to work on machine learning for m
 
 News
 ------
+\[07/2024\] One paper on [tabular-image pretraining](https://arxiv.org/abs/2407.07582) accepted at ECCV 2024\
+\[07/2024\] Two papers accepted at MICCAI 2024 workshops\
 \[05/2024\] **Call for participation** for our MICCAI challenge on "[CMRxRecon2024](https://cmrxrecon.github.io/2024/Home.html)" to be held in conjunction with MICCAI 2024\
 \[04/2024\] [One paper](https://openreview.net/forum?id=Zg0mfl10o2) accepted at Medical Imaging with Deep Learning (MIDL), 2024\
 \[07/2023\] Dr Chen Qin is awarded the **EPSRC New Investigator Award** for the project “TrustMRI: Trustworthy and Robust Magnetic Resonance Image Reconstruction with Uncertainty Modelling and Deep Learning”.\
