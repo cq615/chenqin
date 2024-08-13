@@ -12,6 +12,12 @@ For a full list of our publications, please refer to my [Google Scholar profile]
 
 Selected Publications
 ------
+<img align="left" width="300" src="/images/TIP.png" style="margin-right: 15px" /> 
+
+**TIP: Tabular-Image Pre-training for Multimodal Classification with Incomplete Data**\
+Siyi Du, Shaoming Zheng, Yinsong Wang, Wenjia Bai, Declan O'Regan, **Chen Qin**\
+Medical Image Analysis, 2023. \[[code](https://github.com/siyi-wind/TIP)\]<br />
+<br />
 
 <img align="left" width="300" src="/images/framework_v1.png" style="margin-right: 15px" /> 
 
