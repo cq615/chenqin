@@ -4,7 +4,7 @@ title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
-- **{AI-Driven CMR}**\
+- **AI-Driven CMR**\
    at ISMRM Educational Program on Advanced Cardiovascular MRI Techniques, Singapore, May 2024
 
 - **Artificial Intelligence Meets Medical Imaging**\
