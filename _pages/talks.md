@@ -4,8 +4,14 @@ title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
+- **{AI-Driven CMR}**\
+   at ISMRM Educational Program on Advanced Cardiovascular MRI Techniques, Singapore, May 2024
+
 - **Artificial Intelligence Meets Medical Imaging**\
-   at Imperial MedTech Links, London, UK, July 2023
+   at Fast Machine Learning for Science Workshop, London, UK, Sep 2023
+
+- **Deep Learning for Fast MR Imaging and Analysis**\
+   at Medical Imaging: Physics and Analytics, Imperial MedTech Links, London, UK, July 2023
   
 - **Basic Principles of Fast MRI with AI-Based Acquisition & Reconstruction**\
    at ISMRM Educational Session on Artificial Intelligence in Musculoskeletal MRI, Toronto, Canada, June 2023
