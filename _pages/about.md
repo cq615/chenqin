@@ -22,7 +22,7 @@ Opening
 ------
 I am looking for highly motivated PhD students to work on machine learning for medical image computing at Imperial College London. Prospective students will have a good first degree in Computer Science, Electrical Engineering, Automation or other engineering-related disciplines. Please feel free to drop me an email if you are interested.
 
-(Closed) I am looking for two research assistants/associates on machine learning in medical imaging. For details, please check the [Vacancies page](https://cq615.github.io/vacancies/).
+I am looking for a PhD student working on multimodal representation learning in biological data. For details, please check the [Vacancies page](https://cq615.github.io/vacancies/).
 
 News
 ------
