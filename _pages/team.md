@@ -44,7 +44,7 @@ MRes Students
 <img align="left" width="200" src="/images/MB.png" style="margin-right: 15px" /> 
 
 **Mary-Brenda Akoda**, MRes Student (2024 - )\
-Mary-Brenda Akoda is the 2024 Google DeepMind Scholar at Imperial College London, where she is conducting research on Deep Generative Models for MRI reconstruction. She graduated with first-class honours in Computer Science (Machine Learning and AI) from Goldsmiths, University of London. Her research background includes pioneering Nigeria's first AI research for Diabetic Retinopathy Detection, in collaboration with lead ophthalmologists at the University of Calabar Teaching Hospital, for which she was awarded a patent for a novel method and system for Diabetic Retinopathy Grading based on Stacked Ensemble Learning. Mary-Brenda is deeply passionate about leveraging AI to improve lives, with a keen focus on applying Generative AI to Healthcare. She is always eager to discuss translational research and collaborate on ground-breaking ideas that push the boundaries of AI in healthcare.  <br />
+Mary-Brenda Akoda is the 2024 Google DeepMind Scholar at Imperial College London, where she is conducting research on Deep Generative Models for MRI reconstruction. She graduated with first-class honours in Computer Science from Goldsmiths, University of London. Mary-Brenda is deeply passionate about leveraging AI to improve lives, with a keen focus on applying Generative AI to Healthcare. She is always eager to discuss translational research and collaborate on ground-breaking ideas that push the boundaries of AI in healthcare.  <br />
 <br /><br /> <br /> 
 
 Co-supervised PhD Students
