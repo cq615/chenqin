@@ -41,16 +41,10 @@ Siyi Du received her M.A.Sc. degree in Electrical and Computer Engineering from 
 
 MRes Students
 ------
-<img align="left" width="200" src="/images/AnuragM.jpg" style="margin-right: 15px" /> 
+<img align="left" width="200" src="/images/MB.png" style="margin-right: 15px" /> 
 
-**Anurag Malyala**, MRes Student (2023 - )\
-Anurag Malyala received his bachelor's degree in Computer Science from Delhi Technological University in 2019. He then worked as an Applied AI Engineer for three years, focusing on fine-grained image classification problems, document parsing, and understanding. His research is currently centred around applying Deep Generative Models for accelerated MRI reconstruction. Anurag is keenly interested in Formula One, 3D printing, and cooking. He is always open to discussing and exploring new AI and computer science research areas.  <br />
-<br /><br /> <br /> 
-
-<img align="left" width="200" src="/images/Zhenlin.jpg" style="margin-right: 15px" /> 
-
-**Zhenlin Zhang**, MRes Student (2023 - )\
-Zhenlin Zhang obtained his bachelor’s degree from University of Electronic Science and Technology of China (UESTC). He is working on generative models for MRI reconstruction. He is always glad to hear from you if you have any new ideas or questions about his work. Apart from work, Zhenlin also loves football, economics and surfing the internet.  <br />
+**Mary-Brenda Akoda**, MRes Student (2024 - )\
+Mary-Brenda Akoda is the 2024 Google DeepMind Scholar at Imperial College London, where she is conducting research on Deep Generative Models for MRI reconstruction. She graduated with first-class honours in Computer Science (Machine Learning and AI) from Goldsmiths, University of London. Her research background includes pioneering Nigeria's first AI research for Diabetic Retinopathy Detection, in collaboration with lead ophthalmologists at the University of Calabar Teaching Hospital, for which she was awarded a patent for a novel method and system for Diabetic Retinopathy Grading based on Stacked Ensemble Learning. Mary-Brenda is deeply passionate about leveraging AI to improve lives, with a keen focus on applying Generative AI to Healthcare. She is always eager to discuss translational research and collaborate on ground-breaking ideas that push the boundaries of AI in healthcare.  <br />
 <br /><br /> <br /> 
 
 Co-supervised PhD Students
@@ -74,19 +68,17 @@ Yuyang Xue is currently a PhD student at the University of Edinburgh. He is also
 Hollan Haule is a PhD student at The University of Edinburgh co-supervised by Dr Javier Escudero Rodriguez, Dr Chen Qin and Dr Milly Lo. He received a BSc in Computer Engineering and Information Technology, October 2011, at the University of Dar es Salaam, Tanzania and an MSc degree in Artificial Intelligence, November 2017, at the University of Edinburgh, UK. His research focus is on biomedical time-series data analysis using machine learning. <br />
 <br /><br /> <br />  <br /> 
 
-MEng and MSc Students
-------
-- Michail Psyllakis, MEng student in Electrical and Electronic Engineering
-- Adam Rehman, MEng student in Electronic and Information Engineering
-- Zikun Xu, MSc student in Applied Machine Learning
-- Xuhang Chen, MSc student in Applied Machine Learning
-- Kaijie Xu, MSc student in Applied Machine Learning
-
 Alumni
 ------
-- Jingshuai Liu, PhD, University of Edinburgh, 2023
-- Yichuan Ma, MSc in Signal Processing and Communications, 2022
-- Yufeng Zhang, BEng in Electronics and Electrical Engineering, 2022
-- Huanchang Liu, MSc in Signal Processing and Communications, 2021
-- Fangzhou Wu, MSc in Signal Processing and Communications, 2021
-- Jiayue Dai, MSc in Signal Processing and Communications, 2021
+<img align="left" width="200" src="/images/AnuragM.jpg" style="margin-right: 15px" /> 
+
+**Anurag Malyala**, MRes Student (2023 - 2024)\
+Anurag Malyala received his bachelor's degree in Computer Science from Delhi Technological University in 2019. He then worked as an Applied AI Engineer for three years, focusing on fine-grained image classification problems, document parsing, and understanding. His research is currently centred around applying Deep Generative Models for accelerated MRI reconstruction. Anurag is keenly interested in Formula One, 3D printing, and cooking. He is always open to discussing and exploring new AI and computer science research areas.  <br />
+<br /><br /> <br /> 
+
+<img align="left" width="200" src="/images/Zhenlin.jpg" style="margin-right: 15px" /> 
+
+**Zhenlin Zhang**, MRes Student (2023 - 2024)\
+Zhenlin Zhang obtained his bachelor’s degree from University of Electronic Science and Technology of China (UESTC). He is working on generative models for MRI reconstruction. He is always glad to hear from you if you have any new ideas or questions about his work. Apart from work, Zhenlin also loves football, economics and surfing the internet.  <br />
+<br /><br /> <br /> 
+
