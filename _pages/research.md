@@ -25,4 +25,3 @@ Projects
 - **Multimodal Representation Learning in Biomedical Data**
 - **Contrast-Agnostic Deep Learning-Based Image Registration**
 
-
