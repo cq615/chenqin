@@ -45,7 +45,7 @@ MRes Students
 
 **Mary-Brenda Akoda**, MRes Student (2024 - )\
 Mary-Brenda Akoda is the 2024 Google DeepMind Scholar at Imperial College London, where she is conducting research on Deep Generative Models for MRI reconstruction. She graduated with first-class honours in Computer Science from Goldsmiths, University of London. Mary-Brenda is deeply passionate about leveraging AI to improve lives, with a keen focus on applying Generative AI to Healthcare. She is always eager to discuss translational research and collaborate on ground-breaking ideas that push the boundaries of AI in healthcare.  <br />
-<br /><br /> <br /> 
+<br />
 
 Research Assistants
 ------
@@ -53,7 +53,7 @@ Research Assistants
 
 **Daniel Donnelly**, Research Assistant (2025 - )\
 Prior to joining the lab, Daniel completed an MRes in Artificial Intelligence and Machine Learning at Imperial College London. He also holds an MSc in Data Science and Artificial Intelligence from Queen Mary University of London and a BSc in Mathematics from Cardiff University. After completing his undergraduate studies, Daniel spent a few years working in the asset management industry. His current research focuses on applying Gaussian splatting techniques to MRI volume reconstruction.  <br />
-<br /><br /> <br /> 
+<br />
 
 Co-supervised PhD Students
 ------
